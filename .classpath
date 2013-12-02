@@ -35,12 +35,8 @@
 			<attribute name="ignore_optional_problems" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="common/components/cling">
-		<attributes>
-			<attribute name="ignore_optional_problems" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="src" path="common/components/jdownloader"/>
+	<classpathentry kind="src" path="common/components/jmdns"/>
 	<classpathentry kind="src" path="common/components/core"/>
 	<classpathentry excluding="build.xml" kind="src" path="core">
 		<attributes>
